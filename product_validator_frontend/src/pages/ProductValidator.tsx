@@ -77,11 +77,7 @@ export function ProductValidatorCard() {
       </Card>
 
       {/* product validator results card */}
-      {/* <Card className="w-full max-w-md shadow-lg mt-6">
-        <CardHeader>
-          <CardTitle>Validation Results</CardTitle>
-        </CardHeader>
-      </Card> */}
+      
     </div>
   );
 }
